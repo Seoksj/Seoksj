@@ -48,7 +48,7 @@ I'm interested in **Generative Models and Multimodal Learning**, with hands-on e
 | --- | --- | --- | --- |
 | 2025.06-08 | **Text-Guided Image Colorization** | Team Member | DiT backbone + dual-decoder framework; automated model selection via HSV similarity (60%) + CLIP score (40%) <br>- BK21 Director's Award (Excellence Prize) |
 | 2025.06-07 | **AI-Generated Text Classification** | Team Member | Human vs. LLM text discrimination; RoBERTa-Large / BERT / KoBigBird ensemble with 3:1 undersampling <br>- ROC-AUC 0.906 (Top 11%, 251 teams) |
-| 2024.07-08 | **Korean Economic Articles QA** | Team Member | QLoRA fine-tuning (rank-6, 4-bit) on 3 Korean LLMs; F1-based voting ensemble — AI Convergence Research Center Director’s Award (Grand Prize) |
+| 2024.07-08 | **Korean Economic Articles QA** | Team Member | QLoRA fine-tuning (rank-6, 4-bit) on 3 Korean LLMs; F1-based voting ensemble - AI Convergence Research Center Director’s Award (Grand Prize) |
 | 2024.03-06 | **Real-Estate Index Web Platform** | Team Member | Map-based visualization + ETL pipeline; normalized MySQL schema with Next.js frontend |
 
 
