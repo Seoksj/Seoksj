@@ -9,8 +9,8 @@
 
 ## 👋 About me?
 
-Hi, I'm SeungJun Seok, an AI Engineering student at Inha University.
-I'm interested in Generative Models and Multimodal Learning, with hands-on experience in LLM fine-tuning, diffusion models, and multimodal systems.
+Hi, I'm **SeungJun Seok**, an AI Engineering student at Inha University.
+I'm interested in **Generative Models and Multimodal Learning**, with hands-on experience in LLM fine-tuning, diffusion models, and multimodal systems.
 
 
 
