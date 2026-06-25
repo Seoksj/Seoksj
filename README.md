@@ -33,6 +33,7 @@ I'm interested in **Generative Models and Multimodal Learning**, with hands-on e
 
 | Date | Award | Competition | Rank |
 | --- | --- | --- | --- |
+| 2026.06 | Honorable Mention | Inha Univ. AI Engineering Capstone Design | 🏅 |
 | 2025.08 | BK21 Director's Award (Excellence) | Inha AI Challenge (Text-Guided Image Colorization) | 🥈 |
 | 2024.11 | 1st Place | Google Developer Groups Ideathon & Demo Day | 🥇 |
 | 2024.08 | Grand Prize | Inha AI Challenge (Korean Economic QA) | 🥇 |
@@ -46,6 +47,7 @@ I'm interested in **Generative Models and Multimodal Learning**, with hands-on e
 
 | Date | Project | Role | Achievement |
 | --- | --- | --- | --- |
+| 2026.03-06 | **FairyTaleSL (KSL Education Platform)** | Team Lead | Bidirectional KSL platform: gloss pipeline (kiwipy → Motion DB → VRM avatar) + 1D-CNN sign recognition; keypoint augmentation (2% → 68% webcam accuracy); WER 15.45% @ 680ms E2E latency <br>- Honorable Mention |
 | 2025.06-08 | **Text-Guided Image Colorization** | Team Member | DiT backbone + dual-decoder framework; automated model selection via HSV similarity (60%) + CLIP score (40%) <br>- BK21 Director's Award (Excellence Prize) |
 | 2025.06-07 | **AI-Generated Text Classification** | Team Member | Human vs. LLM text discrimination; RoBERTa-Large / BERT / KoBigBird ensemble with 3:1 undersampling <br>- ROC-AUC 0.906 (Top 11%, 251 teams) |
 | 2024.07-08 | **Korean Economic Articles QA** | Team Member | QLoRA fine-tuning (rank-6, 4-bit) on 3 Korean LLMs; F1-based voting ensemble <br>- AI Convergence Research Center Director’s Award (Grand Prize) |
