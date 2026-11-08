@@ -73,7 +73,7 @@ I'm interested in **Generative Models and Multimodal Learning**, with hands-on e
 
 <div align="center">
   
-  <a href="mailto:tjrtmdwns1031@gmail.com"><img src="https://img.shields.io/badge/tjrtmdwns1031@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:theseokseungjun@gmail.com"><img src="https://img.shields.io/badge/tjrtmdwns1031@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Seoksj"><img src="https://img.shields.io/badge/GitHub-Seoksj-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
