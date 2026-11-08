@@ -9,7 +9,7 @@
 
 ## 👋 About me
 
-Hi, I'm **SeungJun Seok**, an AI Engineering student at Inha University.
+Hi, I'm **SeungJun Seok**, an AI Engineering student at Inha University.  
 I'm interested in **Large Language Models** — especially **LLM agents** and efficient **small language models (sLLMs)** — as well as **Multimodal Learning**.  
 I enjoy making LLMs both capable and practical, from fine-tuning to real-world applications.
 
