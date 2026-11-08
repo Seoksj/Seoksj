@@ -2,7 +2,7 @@
   
   # Seungjun Seok | 석승준
 
-  *"Dreaming in Latent Space."*
+  *"Thinking big, building small."*
   
 </div>
 
@@ -10,8 +10,8 @@
 ## 👋 About me
 
 Hi, I'm **SeungJun Seok**, an AI Engineering student at Inha University.
-I'm interested in **Generative Models and Multimodal Learning**, with hands-on experience in LLM fine-tuning, diffusion models, and multimodal systems.
-
+I'm interested in **Large Language Models** — especially **LLM agents** and efficient **small language models (sLLMs)** — as well as **Multimodal Learning**.  
+I enjoy making LLMs both capable and practical, from fine-tuning to real-world applications.
 
 
 ## 🎓 Education
@@ -73,7 +73,7 @@ I'm interested in **Generative Models and Multimodal Learning**, with hands-on e
 
 <div align="center">
   
-  <a href="mailto:theseokseungjun@gmail.com"><img src="https://img.shields.io/badge/tjrtmdwns1031@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:theseokseungjun@gmail.com"><img src="https://img.shields.io/badge/theseokseungjun@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Seoksj"><img src="https://img.shields.io/badge/GitHub-Seoksj-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
